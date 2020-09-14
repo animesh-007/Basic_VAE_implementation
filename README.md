@@ -1,3 +1,4 @@
-# Basic_VAE_implementation
+# Basic VAE Implementation
 
-## This Repositry contains implementation of simple autoencoder, CNN autoencoder and Variational autoencoder on MNIST dataset
+This Repositry contains implementation of simple autoencoder, CNN autoencoder and Variational autoencoder on MNIST dataset in pytorch.
+
